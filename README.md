@@ -1,5 +1,8 @@
-# Trabalho-POO2-JavaFx (Programação Orientada a Objetos II, Interface Gráfica)
-Membros do grupo:
-# Gil-Antony
-# Júlia Koba
-# Samuel Augusto
+# Trabalho-POO2-JavaFx
+Trabalho de Programação Orientada a Objetos II, Interface Gráfica <br>
+Membros do grupo: <br>
+Gil-Antony <br>
+Júlia Koba <br>
+Samuel Augusto 
+
+ 
